@@ -11,7 +11,7 @@ This repository contains a collection of Jupyter notebooks that demonstrate vari
 ### 1. **Intoduction_to_numpy**
    - **Description**: Introduction to NumPy library basics and fundamental array operations.
    - **Topics Covered**: NumPy arrays, array initialization, advanced operations<br>
-Link: https://github.com/ranjansingh5/all-NumPy-concepts-and-fundamentals
+Link: https://github.com/ranjansinghds/all-NumPy-concepts-and-fundamentals
 
 ### 2. **pandas_series_concepts_part_1**
    - **Description**: Foundational concepts of Pandas Series data structure.
